@@ -1,4 +1,4 @@
-# Tarea-8-Reconocimento-Facial
+# Reconocimento-Facial
 ![Top language](https://img.shields.io/badge/python-100%25-blue?style=for-the-badge
 )
 
